@@ -8,7 +8,7 @@
 - ⚡ Fun fact: I have two lovely dogs!
 
 # Socials:
-[![LinkedIn 按钮](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](www.linkedin.com/in/shen-zhou-596a80271)
+[![LinkedIn 按钮](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/shen-zhou-596a80271)
 <!---
 Shen21484/Shen21484 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
