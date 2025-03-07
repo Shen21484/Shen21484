@@ -7,6 +7,9 @@
 - 📫 How to reach me: b00821484@essec.edu
 - ⚡ Fun fact: I have two lovely dogs!
 
+- Bonjour, je suis Shen!
+- Je suis étudiante à l'ESSEC BS.
+
 # Socials:
 [![LinkedIn 按钮](https://upload.wikimedia.org/wikipedia/commons/0/01/LinkedIn_Logo.svg)](https://www.linkedin.com/in/shen-zhou-596a80271)
 <!---
