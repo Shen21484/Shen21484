@@ -2,10 +2,9 @@
 
 
 - 👋 Hi, I’m Shen!
-- 👀 I’m a student from ESSEC Business School, and am currently pursuing an intern in data analysis.
-- 🌱 I’m currently learning database management and practising powerbi.
+- 👀 I’m a student from ESSEC Business School, and am currently pursuing an intern in supply chain finance.
+- 🌱 I’m currently learning database management and practising automation script.
 - 📫 How to reach me: b00821484@essec.edu
-- ⚡ Fun fact: I have two lovely dogs!
 
 - Bonjour, je suis Shen!
 - Je suis étudiante à l'ESSEC BS.
