@@ -3,7 +3,7 @@
 
 - 👋 Hi, I’m Shen!
 - 👀 I’m a student from ESSEC Business School and I am passionate about Commodities Trading and Supply Chain Finance.
-- 🌱 I’m currently focus on `database management` and `risk analysis`.
+- 🌱 I’m currently focus on `database management` and `market analysis`.
 - 🎯 Actively seeking opportunities in the `Energy` and `Oil&Gas`.
 - ♍️ My mbti: INTJ-A
 
