@@ -1,17 +1,19 @@
 # 𝓐𝓫𝓸𝓾𝓽 𝓜𝓔 
-🇬🇧
+### 🇬🇧
 
-- 👋 Hi, I’m Shen!
-- 👀 I’m a student from ESSEC Business School and I am passionate about Commodities Trading and Supply Chain Finance.
-- 🌱 I’m currently focus on `database management` and `market analysis`.
-- 🎯 Actively seeking opportunities in the `Energy` and `Oil&Gas`.
-- ♍️ My mbti: INTJ-A
+* 👋 Hi, I’m Shen!
+* 👀 I’m a student from ESSEC Business School and I am passionate about **Business Analytics**.
+* 🌱 I’m currently focus on `database management` and `market analysis`.
+* 🎯 Actively seeking opportunities in `Business Analysis` and `Pricing`.
+* ♏ My mbti: INTJ-A
 
 ---
-🇫🇷
-- Bonjour, je suis Shen!
-- Je suis étudiante à l'ESSEC BS.
-<br>
+
+### 🇫🇷
+
+* Bonjour, je suis Shen!
+* Je suis étudiante à l'ESSEC BS.
+* Je recherche activement des opportunités en **Business Analysis**.
 
 ### How to reach me:
 
